@@ -7,7 +7,7 @@ A small Manifest V3 Chrome extension that captures the current tab from top to b
 1. Open `chrome://extensions` in Chrome.
 2. Enable **Developer mode**.
 3. Click **Load unpacked**.
-4. Select this folder: `/Users/colinfaulkingham/Desktop/dev_experiments/screen_capture`.
+4. Select this folder: `chrome-full-screen-capture`.
 5. Pin **Full Page Screenshot Button** to the toolbar.
 
 ## Use
